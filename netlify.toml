@@ -1,3 +1,3 @@
 [build]
   command = "npm install && npm run build"
-  publish = "C:/Users/1835192/testGame/Build"
+  publish = "Build"
